@@ -1,3 +1,3 @@
-# APOYARLO
+# PONIENDO TODO JUNTO
 
-Crear un componente PersonCardque acepte determinadas propiedades, y utilizando props,  muestra cuatro componentes PersonCardque señalen a personas diferentes.
+Usando la misma asignación apoyalo, crear un botón de cumpleaños que aumente la edad de una persona en uno.
